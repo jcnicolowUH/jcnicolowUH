@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jcnicolowUH
+- 👋 Hi, I’m Joel Nicolow
 - 👀 I’m interested in climate science and public health applications of data science and machine learning
 - 🌱 I’m currently learning more about machine learning in python (mostly related to computer vision)
 - 💞️ I’m looking to collaborate on ...
